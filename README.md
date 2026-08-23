@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am a full stack developer working on large scale projects.<br>👯 Cloud engineer <br>🌱 I’m currently learning new skills
+🚀 Aspiring Full-Stack Software Engineer | Final-Year B.Tech CSE | Building responsive MERN stack web applications.
 
 
 ## 🌐 Socials:
