@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Aspiring Full-Stack Software Engineer | Final-Year B.Tech CSE | Building responsive MERN stack web applications.
+🚀 Aspiring Full-Stack Software Engineer| Final-Year B.Tech CSE | Building responsive MERN stack web applications.
 
 
 ## 🌐 Socials:
